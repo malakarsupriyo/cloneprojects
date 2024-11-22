@@ -257,9 +257,9 @@
     color: #000;
 }
 .container .feedback{
-    position: absolute;
-    bottom: 30px;
-    right: 30px;
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
     display: flex;
     justify-content: center;
     background-color: #307ce8;
